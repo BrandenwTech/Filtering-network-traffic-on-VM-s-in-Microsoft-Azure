@@ -42,7 +42,7 @@ note: If you cant relocate your group then use the search at the top of the scre
 ![image](https://github.com/user-attachments/assets/31e8e230-db43-4684-ad39-34f370943a9a)
 
 -----------------------------------------------------------
-Search for VM in your marketplace searchbar
+Search for VM in your marketplace searchbar and create one
 ![image](https://github.com/user-attachments/assets/c3d95645-452d-4697-b704-c2e9dc73d2f3)
 
 -----------------------------------------------------------
