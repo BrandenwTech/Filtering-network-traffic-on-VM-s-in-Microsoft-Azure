@@ -124,6 +124,26 @@ Select Yes
 
 -----------------------------------------------------------
 
+Toggle off all once your windows 10 VM loads
+![image](https://github.com/user-attachments/assets/58285d75-2848-4cbd-ae5f-6e7fed9edb8d)
+
+-----------------------------------------------------------
+
+Select Yes and X on the tab in the middle of the screen
+![image](https://github.com/user-attachments/assets/60638310-a305-4581-8b41-ade7763bb9a2)
+
+-----------------------------------------------------------
+
+Open microsoft edge and seach for wireshark
+
+download windows x64 installer
+![image](https://github.com/user-attachments/assets/a96ab778-81d8-451b-909e-bb0dae709d11)
+
+-----------------------------------------------------------
+
+
+
+
 
 
 
