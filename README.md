@@ -169,6 +169,10 @@ Note ; The private ip address is found under your public when you click on your 
 Observe wireshark on your first virtual machine and you should be able to see the ping from VM 2
 ![image](https://github.com/user-attachments/assets/574713f1-eab7-4d2d-a210-1cebf4f5e2a7)
 
+
+![image](https://github.com/user-attachments/assets/c56e7ca1-bb1c-44e7-a418-f8541e6a9fdf)
+
+
 -----------------------------------------------------------
 
 
