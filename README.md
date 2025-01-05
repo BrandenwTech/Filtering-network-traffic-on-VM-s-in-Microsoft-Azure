@@ -19,5 +19,6 @@ Step 2 ; Go to Microsoft Azure home page while signed in and create a Resource g
 Note: if your azure services does not display resource groups then use the Search bar located at the top of the screen
 ![image](https://github.com/user-attachments/assets/8730d11c-4f74-43cd-a268-3fd94a5099c7)
 
+Use the create button once clicking on resource groups
 ![image](https://github.com/user-attachments/assets/f2aecae6-c0c7-49ed-b2d0-a00dfc926ca9)
 
