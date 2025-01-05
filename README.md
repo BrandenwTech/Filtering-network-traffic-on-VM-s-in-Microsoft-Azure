@@ -105,6 +105,27 @@ verify that your network is the same in the networking tab
 
 -----------------------------------------------------------
 
+Click on your first virtual machine and locate the Public ip address on the right side of the screen
+
+save this ip address into your note
+![image](https://github.com/user-attachments/assets/a1a053a6-e516-4f54-8673-f8ed646020c3)
+
+-----------------------------------------------------------
+
+Open Remote desktop connection on your pc and enter the ip address from machine 1
+
+Enter your username and password to login to the VM
+![image](https://github.com/user-attachments/assets/0afe2e5d-d3a8-4453-a894-8b6d29eae9f8)
+
+-----------------------------------------------------------
+
+Select Yes
+![image](https://github.com/user-attachments/assets/4f7b92e7-9ae2-41a7-a744-a85905c554a4)
+
+-----------------------------------------------------------
+
+
+
 
 
 
