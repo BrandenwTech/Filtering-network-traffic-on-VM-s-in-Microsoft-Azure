@@ -54,4 +54,63 @@ Name your Virtual machine
 
 -----------------------------------------------------------
 
+Select a Windows 10 image and for size select D2s_v3 - 2cpu's 8 gig memory
+
+note: select see all sizes if you cant locate this size
+![image](https://github.com/user-attachments/assets/f085feb8-4aad-4ac4-bc51-7c90c12a8bba)
+
+-----------------------------------------------------------
+
+Create a text document containing a username and password for 2 virtual machines
+![image](https://github.com/user-attachments/assets/f95c619b-ee65-4f0c-858a-f40c8a6a2544)
+
+-----------------------------------------------------------
+
+Enter you first username and password into the administrator account section of the page
+![image](https://github.com/user-attachments/assets/19c0f7b7-3b1b-458b-80f0-da3b0a5c3663)
+
+-----------------------------------------------------------
+
+Check your licensing box at the bottom of the page
+![image](https://github.com/user-attachments/assets/38de9c21-0191-4771-8ccb-e49857574c4c)
+
+-----------------------------------------------------------
+
+Scroll to the top and select the networking tab
+![image](https://github.com/user-attachments/assets/0c82c581-7e28-4a8b-af3e-45861aa2b9de)
+
+-----------------------------------------------------------
+
+Create a new virtual network and give it a name
+![image](https://github.com/user-attachments/assets/8807bddb-4de1-4ab8-b47a-25b32dc50d3a)
+
+-----------------------------------------------------------
+
+Select view & create and once your validation passes select create once more at the bottom of the screen
+![image](https://github.com/user-attachments/assets/43916d0e-fc50-443d-9faf-93b8664599a7)
+
+-----------------------------------------------------------
+
+Once your deployment succeeds go to your resource group
+![image](https://github.com/user-attachments/assets/7cff9c38-1015-437e-9fb9-26f60dba93f8)
+
+-----------------------------------------------------------
+
+In your resource group create another VM using the second username and password that you typed in your note
+
+verify that your resouce group is correct
+
+verify that your network is the same in the networking tab
+![image](https://github.com/user-attachments/assets/917eba98-e733-4768-9f6d-cc2c9c51f371)
+
+-----------------------------------------------------------
+
+
+
+
+
+
+
+
+
 
