@@ -137,9 +137,33 @@ Select Yes and X on the tab in the middle of the screen
 Open microsoft edge and seach for wireshark
 
 download windows x64 installer
+
+open your .exe file
+
+note ; go to file explorer then downloads if you cant find your .exe
 ![image](https://github.com/user-attachments/assets/a96ab778-81d8-451b-909e-bb0dae709d11)
 
 -----------------------------------------------------------
+
+Continue clicking the blue button until wireshark installs
+![image](https://github.com/user-attachments/assets/638aea5c-1458-4f6f-9007-e93912ca20fb)
+
+-----------------------------------------------------------
+
+Open wireshark and start capturing packets by clicking the blue fin under file at the top of the screen
+![image](https://github.com/user-attachments/assets/9deae51e-7dc7-4b0c-bb98-c8e6cda6202d)
+
+-----------------------------------------------------------
+
+Use the search and type icmp and enter to start filtering only for ping traffic
+
+After this log into your second VM and access your windows 10 home page
+![image](https://github.com/user-attachments/assets/703fa28a-b931-44ba-ac1b-4a2b4cf06105)
+
+-----------------------------------------------------------
+
+
+
 
 
 
