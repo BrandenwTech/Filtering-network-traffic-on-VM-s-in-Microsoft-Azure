@@ -162,7 +162,9 @@ After this log into your second VM and access your windows 10 home page
 
 -----------------------------------------------------------
 
-Open windows Powershell on your second VM and ping the IP address of your 1st VM
+Open windows Powershell on your second VM and ping the Private IP address of your 1st VM
+
+Note ; The private ip address is found under your public when you click on your VM in Azure
 
 Observe wireshark on your first virtual machine and you should be able to see the ping from VM 2
 ![image](https://github.com/user-attachments/assets/574713f1-eab7-4d2d-a210-1cebf4f5e2a7)
