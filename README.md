@@ -1,7 +1,7 @@
 # Filtering-network-traffic-on-VMs-in-Microsoft-Azure
 In this Project I guide you though how to make 2 virtual machines in the cloud ( Microsoft Azure ) and detect network traffic using Powershell and Wireshark
 ----------------------------------------------------------
-Technologies / OS
+( Technologies / OS ) used
 1. Microsoft Azure
 2. Powershell
 3. Wireshark
