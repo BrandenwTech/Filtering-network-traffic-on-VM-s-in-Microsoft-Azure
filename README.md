@@ -47,4 +47,11 @@ Search for VM in your marketplace searchbar and create one
 
 -----------------------------------------------------------
 
+Verify that your VM is in the resource group that you named
+
+Name your Virtual machine
+![image](https://github.com/user-attachments/assets/a3528b2b-ab78-4cba-9fef-69079821dbf6)
+
+-----------------------------------------------------------
+
 
